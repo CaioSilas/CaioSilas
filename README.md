@@ -1,24 +1,25 @@
 ### Olá, eu sou o Caio 👋
 
-Desenvolvedor **backend**, formado em Ciência da Computação pela **UFOP** e mestrando em IA e Ciência de Dados na mesma universidade.
+Mestrando em **Inteligência Artificial e Ciência de Dados** na **UFOP** e bacharel em Ciência da Computação pela mesma universidade.
 
-Gosto de construir APIs bem organizadas, com regras de negócio claras, testes automatizados e um ambiente que sobe com um comando.
+Trabalho com Machine Learning aplicado, do tratamento dos dados à avaliação dos modelos, e gosto de problemas em que os dados são poucos, ruidosos ou caros de rotular.
 
-- 🔧 Hoje trabalho principalmente com **PHP / Laravel** e **Node.js**
-- 🧪 Escrevo testes e uso CI no GitHub Actions em todos os projetos
-- 🏛️ Fui dev backend no laboratório **XR4Good** (UFOP), em uma plataforma web de impacto social
-- 🤖 Também pesquiso Machine Learning: visão computacional (LIBRAS) e aprendizado semissupervisionado
+- 🧪 **TCC:** aprendizado semissupervisionado para prever atividade biológica de compostos químicos, em 19 bases e com 5–15% de dados rotulados
+- 🤟 **LIBRAS:** Transformer sobre esqueletos 3D com **84% de acurácia** em 29 sinais (trabalho em equipe)
+- 🔧 Também tenho base de **backend** (Node.js, PHP/Laravel) para levar modelos para dentro de sistemas
 
 ### 🛠️ Tecnologias
 
-**Backend:** PHP · Laravel · Node.js · Django · APIs REST
-**Banco de dados:** MySQL · MongoDB
-**Ferramentas:** Git · Docker · GitHub Actions · PHPUnit · Linux
-**Outras linguagens:** JavaScript · Python · Java · C/C++
+**Linguagens:** Python · SQL · Java · C/C++ · JavaScript
+**ML e dados:** scikit-learn · TensorFlow / Keras · NumPy · SciPy · pandas · Matplotlib · Seaborn
+**Técnicas:** aprendizado semissupervisionado · deep learning · Transformers · CNNs · computação evolutiva (DEAP)
+**Ferramentas:** Jupyter · Git · Docker · Linux · MySQL · MongoDB
 
-### 📌 Projeto em destaque
+### 📌 Projetos em destaque
 
-**[helpdesk-api](https://github.com/CaioSilas/helpdesk-api)**: API REST de chamados de suporte em Laravel 13 + PHP 8.3, com autenticação por token (Sanctum), autorização por perfil, filtros e busca, testes automatizados e Docker com MySQL.
+- **[Aprendizado semissupervisionado para SAR](https://github.com/CaioSilas/ALGORITMOS-SEMISSUPERVISIONADOS-PARA-ANALISE-DE-SAR)**: GFHF, kNN-LDP e HDBSCAN\*-SS contra Random Forest e SVM, com validação cruzada 10-fold
+- **[Reconhecimento de LIBRAS](https://github.com/CaioSilas/SKELETON_BASED)**: Transformer com Multi-Head Attention sobre sequências de esqueleto
+- **[Redes Neurais](https://github.com/CaioSilas/RedesNeurais)**: da regressão linear com NumPy a CNNs, GANs e NLP
 
 ### 📫 Contato
 
